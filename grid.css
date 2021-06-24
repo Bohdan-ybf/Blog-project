@@ -40,9 +40,19 @@
         min-width: 58.33333%;
     }
 
+    .col-sm-4 {
+        flex: 0 0 33.33333%;
+        min-width: 33.33333%;
+    }
+
     .col-sm-2 {
         flex: 0 0 16.66667%;
         min-width: 16.66667%;
+    }
+
+    .col-xs-6 {
+        flex: 0 0 50%;
+        min-width: 50%;
     }
 
     .col-xs-5 {
